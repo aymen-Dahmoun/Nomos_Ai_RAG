@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+sentence-transformers
+numpy
+scikit-learn
+python-dotenv
+httpx
+pydantic-settings
+python-multipart
